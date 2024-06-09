@@ -1,6 +1,6 @@
 #include <stdio.h> //Se incluye la libreria
 
-// Producto de una serie de números fraccionarios por for ya que su sintaxis me arra en este problema algunas lienas de codigo y es mas eficiente
+// Producto de una serie de números fraccionarios por for ya que su sintaxis me ahorra en este problema algunas lienas de codigo y es mas eficiente
 float producto_de_serie(int n1)
 {
     float producto = 1.0;
